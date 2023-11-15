@@ -15,4 +15,3 @@ if valorPrestacao > porcetagemSalario:
     print("Empréstimo Negado!")
 else:
     print("Empréstimo pode ser Concedido!")
-
